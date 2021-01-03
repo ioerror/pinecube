@@ -1,0 +1,3 @@
+[submodule "submodules/gst-rtsp-launch"]
+	path = submodules/gst-rtsp-launch
+	url = https://github.com/sfalexrog/gst-rtsp-launch/
